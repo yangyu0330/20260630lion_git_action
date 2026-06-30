@@ -1,5 +1,5 @@
 export function normalizeChangedFiles(files) {
-  return files.map((file) => String(file).trim()).filter(Boolean);
+  return files.map((file) => String(file).trim());
 }
 
 export function createReviewPrompt(files) {
