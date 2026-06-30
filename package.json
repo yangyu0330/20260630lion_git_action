@@ -1,0 +1,17 @@
+{
+  "name": "ai-pr-summary-action-practice",
+  "version": "1.0.0",
+  "description": "Practice project for learning GitHub Actions with AI-assisted pull request summaries.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node --check src/index.js"
+  },
+  "keywords": [
+    "github-actions",
+    "pull-request",
+    "ai-summary"
+  ],
+  "author": "",
+  "license": "MIT"
+}
