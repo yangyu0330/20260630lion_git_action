@@ -25,3 +25,7 @@ npm run build
 ## 다음 단계
 
 다음 단계에서는 `.github/workflows/ai-pr-summary.yml` 파일을 추가해서 GitHub Actions가 PR 이벤트에서 실행되도록 설정합니다.
+
+## PR 이벤트 테스트
+
+이 변경은 Pull Request를 실제로 생성했을 때 GitHub Actions가 자동 실행되는지 확인하기 위한 테스트입니다.
